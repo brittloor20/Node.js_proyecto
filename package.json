@@ -1,0 +1,19 @@
+{
+  "name": "node_proyecto",
+  "version": "1.0.0",
+  "description": "Proyecto Final Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo / \"Error: No testing specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Brittany Naomi Loor Oña",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.4"
+  }
+}
